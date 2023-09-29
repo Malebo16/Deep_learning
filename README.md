@@ -77,12 +77,6 @@ Areas for improvement and future work include:
 
 Acknowledgement
 
-Precious Matea
-
-Eddie Ngobeni
 
 Malebo Phosa
 
-Vunene Mabasa
-
-Maxwell Makinana
