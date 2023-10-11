@@ -1,4 +1,4 @@
-# Titans_Deep_Learning_Project
+# Deep_Learning
 
 # Table of Contents
 
