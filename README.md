@@ -20,7 +20,7 @@
 
 # General Info
 
-Financial inclusion is a critical aspect of economic development, and this project focuses on assessing the state of financial inclusion in Africa. Through data analysis and machine learning, we aim to gain insights into factors affecting financial inclusion and propose solutions to improve access to financial services across the continent.
+Financial inclusion is a critical aspect of economic development, and this project focuses on assessing the state of financial inclusion in Africa. Through data analysis and machine learning, I aim to gain insights into factors affecting financial inclusion and propose solutions to improve access to financial services across the continent.
 
 # Technologies Used
 
